@@ -25,7 +25,7 @@ You need a stock price dataset, which can be obtained from Kaggle:
 To execute the trading prediction:
 
 ```bash
-python algorithmic_trading.py
+run button above Jupyter note book feature bar
 ```
 
 ## Features
